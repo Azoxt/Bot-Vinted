@@ -1,0 +1,23 @@
+{
+  "subscriptions": [
+    {
+      "id": "mmafmr",
+      "url": "https://www.vinted.fr/vetements?search_text=&brand_id[]=53&brand_id[]=255&brand_id[]=94&size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=1821&price_to=15.0&currency=EUR&search_id=4094061772&order=newest_first",
+      "channelID": "917066400261087302"
+    },
+    {
+      "id": "2zjw8f",
+      "url": "https://www.vinted.fr/vetements?search_text=&brand_id[]=53&brand_id[]=255&brand_id[]=94&size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=1821&price_to=15.0&currency=EUR&search_id=4094061772&order=relevance",
+      "channelID": "917066400261087302"
+    },
+    {
+      "id": "uimi3",
+      "url": "https://www.vinted.fr/vetements?search_text=&brand_id[]=53&brand_id[]=94&brand_id[]=304&brand_id[]=255&brand_id[]=88&size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=79&price_to=15.0&currency=EUR&search_id=4093988092&order=newest_first",
+      "channelID": "917067543045365830"
+    }
+  ],
+  "is_first_sync": false,
+  "last_item_ts_mmafmr": 1638717128000,
+  "last_item_ts_2zjw8f": 1638717557000,
+  "last_item_ts_uimi3": 1638717668000
+}
